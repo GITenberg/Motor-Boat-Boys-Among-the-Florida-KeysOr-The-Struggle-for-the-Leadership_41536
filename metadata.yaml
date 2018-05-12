@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25007'
     url: http://www.gutenberg.org/2009/agents/25007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41536#Motor-Boat-Boys-Among-the-Florida-KeysOr-The-Struggle-for-the-Leadership
 gutenberg_issued: '2012-12-02'
 gutenberg_type: Text
 identifiers:
